@@ -1,5 +1,4 @@
 <?php
-echo "Sneha";
 	session_start();
 	
 	if (isset($_SESSION['user'])) {
